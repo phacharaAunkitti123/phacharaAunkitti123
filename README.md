@@ -138,37 +138,116 @@ Current areas of exploration:
 
 # 🛠 Tech Stack
 
-### Languages
+### 💻 Languages
 
-`Python` `TypeScript` `JavaScript` `SQL` `C#`
+<p align="left">
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="40" height="40" />
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" alt="TypeScript" title="TypeScript" width="40" height="40" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="40" height="40" />
+  </a>
+</p>
 
-### Backend & APIs
+`SQL` `C#`
 
-`FastAPI` `Node.js` `Express.js` `REST API`
+---
 
-### Data Engineering
+### ⚙️ Backend & APIs
 
-`PostgreSQL` `Pandas` `Apache Airflow` `dbt` `Kafka`
-`ETL/ELT` `Data Warehouse` `Dimensional Modeling` `Data Quality`
+<p align="left">
+  <a href="https://fastapi.tiangolo.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" alt="FastAPI" title="FastAPI" width="40" height="40" />
+  </a>
+  <a href="https://nodejs.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="Node.js" title="Node.js" width="40" height="40" />
+  </a>
+  <a href="https://expressjs.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" alt="Express" title="Express" width="40" height="40" />
+  </a>
+  <a href="https://docs.nestjs.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" alt="NestJS" title="NestJS" width="40" height="40" />
+  </a>
+</p>
 
-### AI Engineering
+`REST API` `Background Jobs` `Caching`
 
-`LLMs` `RAG` `Embeddings` `Vector Search` `Semantic Search`
-`HDBSCAN` `Qdrant`
+---
 
-### Infrastructure
+### 📊 Data Engineering
 
-`AWS` `Docker` `Redis` `Linux` `GitHub Actions`
+<p align="left">
+  <a href="https://www.postgresql.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="40" height="40" />
+  </a>
+</p>
 
-### Frontend
+`Pandas` `Apache Airflow` `dbt` `Kafka`  
+`ETL / ELT` `Data Warehouse` `Dimensional Modeling` `Data Quality`
 
-`React` `Next.js` `Vue.js` `Angular`
+---
+
+### 🤖 AI Engineering
+
+<p align="left">
+  <a href="https://huggingface.co/" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/huggingface-colored-dark.svg" alt="Hugging Face" title="Hugging Face" width="40" height="40" />
+  </a>
+</p>
+
+`LLMs` `RAG` `Embeddings` `Vector Search`  
+`Semantic Search` `HDBSCAN` `Qdrant` `LLM Evaluation`
+
+---
+
+### ☁️ Cloud & Infrastructure
+
+<p align="left">
+  <a href="https://aws.amazon.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored-dark.svg" alt="AWS" title="AWS" width="40" height="40" />
+  </a>
+  <a href="https://cloud.google.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" alt="Google Cloud" title="Google Cloud" width="40" height="40" />
+  </a>
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="40" height="40" />
+  </a>
+  <a href="https://www.linux.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="40" height="40" />
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="40" height="40" />
+  </a>
+</p>
+
+`Redis` `GitHub Actions` `CI/CD`
+
+---
+
+### 🎨 Frontend
+
+<p align="left">
+  <a href="https://react.dev/" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="40" height="40" />
+  </a>
+  <a href="https://nextjs.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" alt="Next.js" title="Next.js" width="40" height="40" />
+  </a>
+  <a href="https://vuejs.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" alt="Vue.js" title="Vue.js" width="40" height="40" />
+  </a>
+</p>
+
+`Angular`
 
 ---
 
 # ⭐ Featured Projects
 
-### 💬 Duechat AI
+### Duechat AI
 
 **Production AI assistant for omnichannel customer support**
 
@@ -178,7 +257,7 @@ Building an AI-assisted customer support system that combines Standard Replies, 
 
 ---
 
-### 📊 Customer Conversation Intelligence
+### Customer Conversation Intelligence
 
 **Discovering customer intents from large-scale conversation data**
 
@@ -188,35 +267,13 @@ Pipeline for cleaning customer messages, generating embeddings, clustering conve
 
 ---
 
-### 🏗 Data Engineering Pipeline
+### Data Engineering Pipeline
 
 **Operational Database → Analytics Platform**
 
 `PostgreSQL` `Python` `ETL` `Data Modeling` `Analytics`
 
 Building reproducible data pipelines that extract operational data, clean and transform datasets, and prepare analytics-ready data models.
-
----
-
-# 🧠 How I Think About Engineering
-
-I enjoy working on problems where **software, data, AI, and real business constraints meet**.
-
-Good engineering isn't only about writing code.
-
-I care about questions like:
-
-* Will it work reliably in production?
-* How does data flow through the system?
-* How do we know the feature actually works?
-* What happens when the system fails?
-* How much does it cost to operate?
-* Can we measure its impact?
-* Does AI actually improve the workflow?
-
-This is why I enjoy working across the full engineering lifecycle:
-
-**Build → Ship → Measure → Learn → Improve**
 
 ---
 
@@ -234,28 +291,5 @@ I believe one of the best ways to learn engineering is to:
 
 ---
 
-# 🎯 Currently Exploring
-
-* Production-grade Data Engineering
-* Real-time Data Pipelines
-* Cloud Data Platforms
-* Data Quality & Observability
-* Production RAG Systems
-* LLM Evaluation & Observability
-* AI Agent Architecture
-* Scalable Backend Systems
-* AI-powered SaaS Products
-
----
-
-# 🤝 Let's Connect
-
-I'm always interested in discussing:
-
-**Software Engineering • Data Engineering • AI Engineering • SaaS • Startups • Product**
-
-If you're building interesting software, data, or AI systems, feel free to connect.
-
----
 
 ### Building software. Engineering data. Making AI useful.
