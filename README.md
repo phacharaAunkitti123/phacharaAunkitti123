@@ -1,4 +1,4 @@
-# Hi, I'm Phachara Aunkitti 👋
+# Hi, I'm Phacharawict Aunkitti 👋
 
 ### Software Engineer • Data Engineer • AI Engineer
 
